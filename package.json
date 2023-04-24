@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-applaudproguard",
+  "version": "0.0.1",
+  "description": "Cordova plugin for ProGuard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Applaud-devpack/cordova-plugin-proguard.git"
+  },
+  "keywords": [
+    "proguard",
+    "android",
+    "optimize",
+    "shrink",
+    "minify",
+    "obfuscate",
+    "tool",
+    "cordova",
+    "plugin",
+    "applaud"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Applaud-devpack/cordova-plugin-proguard/issues"
+  },
+  "homepage": "https://github.com/Applaud-devpack/cordova-plugin-proguard#readme",
+  "devDependencies": {
+    "jshint": "2.12.0"
+  }
+}
